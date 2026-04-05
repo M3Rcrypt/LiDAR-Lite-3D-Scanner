@@ -74,13 +74,6 @@ A custom Java application written in **Processing IDE** receives this telemetry,
 4. Click **Run** to start the real-time 3D scan rendering.
 
 ---
-
 [![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://www.youtube.com/watch?v=KvQOxgoh6c0)
-
-## 🧠 Future Improvements
-* **RTOS Integration:** Migrating the bare-metal loop to FreeRTOS to handle servo control and I2C polling in separate threads.
-* **Edge Filtering:** Implementing a Kalman filter on the MCU to smooth out sensor noise before transmitting to the PC.
-* **ROS Integration:** Publishing the point cloud data as a standard ROS `PointCloud2` message for autonomous drone/robot navigation.
-
 ---
 *Developed by [Ömer Faruk Öncel](https://github.com/M3Rcrypt).*
