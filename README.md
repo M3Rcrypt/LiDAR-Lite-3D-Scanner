@@ -74,6 +74,9 @@ A custom Java application written in **Processing IDE** receives this telemetry,
 4. Click **Run** to start the real-time 3D scan rendering.
 
 ---
+
+### 🎥 Watch the Project Demo on YouTube
+
 [![YouTube](https://img.shields.io/badge/YouTube-Watch%20Video-red?logo=youtube)](https://www.youtube.com/watch?v=KvQOxgoh6c0)
 ---
 *Developed by [Ömer Faruk Öncel](https://github.com/M3Rcrypt).*
